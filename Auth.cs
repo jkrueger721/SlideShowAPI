@@ -57,12 +57,14 @@ namespace SlideShowAPI
         {
             return Convert.ToBase64String(GenerateSaltBytes());
         }
-        public string byte[] GenerateSaltBytes()
+
+        private static byte[] GenerateSaltBytes()
         {
             byte[] salt;
             var rng = RandomNumberGenerator.Create();
             rng.GetBytes(salt = new byte[16]);
             return salt;
+
         }
     }
 }

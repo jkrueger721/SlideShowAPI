@@ -17,5 +17,7 @@ namespace SlideShowAPI.Modals
 
         public string Role { get; set; }
 
+        public List<string> ImgUrl { get; set; }
+
     }
 }
