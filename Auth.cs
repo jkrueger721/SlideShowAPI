@@ -15,7 +15,7 @@ namespace SlideShowAPI
     {
         private static string secret = "thisismysecretstringyourmomshouse";
 
-        private static string GenerateJWT(User user)
+        public static string GenerateJWT(User user)
         {
             var payload = new Dictionary<string, object>
             {

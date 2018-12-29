@@ -11,10 +11,20 @@ namespace SlideShowAPI.Modals
 {
     public class UserContext : DbContext
     {
-        public DbSet<User> Blogs { get; set; }
-        //public DbSet<Post> Posts { get; set; }
-
+        public DbSet<User> Users { get; set; }
+        public DbSet<Photo> Photos { get; set; }
+  
         public UserContext(DbContextOptions<UserContext> options) : base(options) { }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.Photo)
+                .WithOne();
+                
+                
+        }
+
 
     }
 }
