@@ -1,11 +1,22 @@
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\bin\Debug\netcoreapp2.0\SlideShowAPI.deps.json
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\bin\Debug\netcoreapp2.0\SlideShowAPI.runtimeconfig.json
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\bin\Debug\netcoreapp2.0\SlideShowAPI.runtimeconfig.dev.json
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\bin\Debug\netcoreapp2.0\SlideShowAPI.dll
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\bin\Debug\netcoreapp2.0\SlideShowAPI.pdb
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\obj\Debug\netcoreapp2.0\SlideShowAPI.csprojResolveAssemblyReference.cache
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\obj\Debug\netcoreapp2.0\SlideShowAPI.csproj.CoreCompileInputs.cache
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\obj\Debug\netcoreapp2.0\SlideShowAPI.AssemblyInfoInputs.cache
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\obj\Debug\netcoreapp2.0\SlideShowAPI.AssemblyInfo.cs
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\obj\Debug\netcoreapp2.0\SlideShowAPI.dll
-C:\Users\John\Documents\Visual Studio 2017\Projects\SlideShowAPI\SlideShowAPI\obj\Debug\netcoreapp2.0\SlideShowAPI.pdb
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.deps.json
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.runtimeconfig.json
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.runtimeconfig.dev.json
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.dll
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.pdb
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.csprojResolveAssemblyReference.cache
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.csproj.CoreCompileInputs.cache
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.AssemblyInfoInputs.cache
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.AssemblyInfo.cs
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.dll
+C:/Users/John/Documents/Visual Studio 2017/Projects/SlideShowAPI/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.pdb
+/home/johnathankrueger/Programming/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.deps.json
+/home/johnathankrueger/Programming/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.runtimeconfig.json
+/home/johnathankrueger/Programming/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.runtimeconfig.dev.json
+/home/johnathankrueger/Programming/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.dll
+/home/johnathankrueger/Programming/SlideShowAPI/bin/Debug/netcoreapp2.0/SlideShowAPI.pdb
+/home/johnathankrueger/Programming/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.csprojAssemblyReference.cache
+/home/johnathankrueger/Programming/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.csproj.CoreCompileInputs.cache
+/home/johnathankrueger/Programming/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.AssemblyInfoInputs.cache
+/home/johnathankrueger/Programming/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.AssemblyInfo.cs
+/home/johnathankrueger/Programming/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.dll
+/home/johnathankrueger/Programming/SlideShowAPI/obj/Debug/netcoreapp2.0/SlideShowAPI.pdb
